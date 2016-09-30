@@ -1,0 +1,2 @@
+
+((:|TITLE| "emotional rescue" :|ARTIST| "the rolling stones" :|RATING| 7. :|RIPPED| |COMMON-LISP|::|NIL|) (:|TITLE| "music from another dimension!" :|ARTIST| "aerosmith" :|RATING| 7. :|RIPPED| |COMMON-LISP|::|T|) (:|TITLE| "exile on main st" :|ARTIST| "the rolling stones" :|RATING| 8. :|RIPPED| |COMMON-LISP|::|T|) (:|TITLE| "let the music do the talking" :|ARTIST| "the joe perry project" :|RATING| 9. :|RIPPED| |COMMON-LISP|::|T|)) 
